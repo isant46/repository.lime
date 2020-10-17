@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.lime" name="Lime Add-ons" version="1.0.0" provider-name="groggyegg">
-    <extension point="xbmc.addon.repository" name="Lime Add-ons">
-        <info compressed="false">https://raw.githubusercontent.com/groggyegg/lime/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/groggyegg/lime/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/groggyegg/lime/master</datadir>
+<addon id="repository.lime" name="Isant46 Lime Add-ons" version="1.0.0" provider-name="isant46">
+    <extension point="xbmc.addon.repository" name="Isant46 Lime Add-ons">
+        <info compressed="false">https://raw.githubusercontent.com/isant46/lime/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/isant46/lime/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/isant46/lime/master</datadir>
     </extension>
 </addon>
